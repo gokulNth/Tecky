@@ -1,4 +1,5 @@
 import java.util.Scanner;
+// COMMENT LINE
 public class asses1 {
     public static void main(String[] args) 
     {
